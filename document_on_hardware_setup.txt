@@ -1,0 +1,92 @@
+﻿ELECTRONIC NOSE FOR MANGO LEAF DISEASE DETECTION USING ESP32
+Project Overview
+This project is an Electronic Nose (E-Nose) system developed to detect mango leaf diseases by sensing the Volatile Organic Compounds (VOCs) released by diseased leaves.
+Instead of using image processing, this project detects the gases released from infected leaves using gas sensors. The sensor readings are collected and stored as a dataset, which can later be used for machine learning to classify healthy and diseased leaves.
+Objective
+The main objective of this project is to:
+• Detect VOCs released by diseased mango leaves. 
+• Collect a clean sensor dataset. 
+• Build a machine learning dataset for disease classification. 
+• Develop a low-cost portable Electronic Nose system. 
+Hardware Components
+• ESP32 Development Board 
+• MQ3 Gas Sensor 
+• MQ135 Gas Sensor 
+• Mini Air Pump 
+• Two Airtight Containers 
+o Leaf Chamber 
+o Sensor Chamber 
+• Silicone Tube 
+• 12V Battery 
+• Rocker Switch 
+• USB Cable 
+• Laptop 
+Software Used
+• Arduino IDE 
+• ESP32 Board Package 
+• CoolTerm 
+• Microsoft Excel 
+• Python (for Machine Learning) 
+Working Principle
+The Electronic Nose works by detecting gases released from diseased mango leaves.
+The setup contains two separate chambers.
+The first chamber contains the mango leaf.
+The second chamber contains the MQ3 and MQ135 gas sensors.
+Both chambers are connected using a silicone tube.
+A small pump is used to transfer the VOCs released from the leaf chamber into the sensor chamber.
+The ESP32 continuously reads the analog values from both sensors and stores them in CSV format.
+Dataset Collection Procedure
+The dataset was collected using the following procedure.
+Step 1
+Power ON the ESP32.
+Step 2
+Allow the gas sensors to warm up for approximately 30 minutes before collecting the first sample.
+Step 3
+Wait until the sensor readings become stable.
+Step 4
+The ESP32 measures the baseline values by taking multiple readings in fresh air.
+Step 5
+Place the diseased mango leaf inside the leaf chamber.
+Step 6
+Close both chambers.
+Step 7
+Turn ON the air pump manually using the rocker switch.
+The pump transfers VOCs from the leaf chamber to the sensor chamber.
+Step 8
+Wait for 15 minutes.
+This allows enough VOC concentration to build inside the sensor chamber.
+Step 9
+The ESP32 records the sensor readings automatically for one minute.
+Step 10
+The collected readings are stored in CSV format using CoolTerm.
+Step 11
+Turn OFF the pump.
+Step 12
+Remove the leaf.
+Step 13
+Open both chambers and allow fresh air to circulate until the sensors return close to their baseline values.
+Step 14
+Repeat the process for the next sample.
+CSV Dataset Format
+Each collected sample is stored in CSV format.
+Example:
+Time,Sample,Label,Baseline_MQ3,Baseline_MQ135,MQ3,MQ135
+0,D01,Diseased,324,53,561,82
+1,D01,Diseased,324,53,563,81
+2,D01,Diseased,324,53,565,84
+Sensor Description
+MQ3
+The MQ3 sensor detects alcohol and various volatile organic compounds released by infected leaves.
+MQ135
+The MQ135 sensor detects gases such as ammonia, benzene, smoke, carbon dioxide, and other air pollutants.
+Combining both sensors provides better information about the VOC profile released by diseased leaves.
+Why Baseline Measurement?
+The baseline value changes slightly because environmental conditions are never exactly the same.
+Measuring the baseline before every sample helps reduce the effect of environmental changes and makes each sample more reliable.
+Why Two Chambers?
+Using separate chambers provides several advantages.
+• Prevents moisture from reaching the sensors. 
+• Reduces contamination. 
+• Improves VOC transfer. 
+• Produces more consistent sensor readings.
+
