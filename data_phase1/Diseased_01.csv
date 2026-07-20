@@ -1,0 +1,76 @@
+Sample ID : D01,,,,,,
+,,,,,,
+Measuring Baseline...,,,,,,
+,,,,,,
+Baseline MQ3 = 341,,,,,,
+Baseline MQ135 = 58,,,,,,
+,,,,,,
+INSERT LEAF NOW,,,,,,
+Close Box,,,,,,
+Waiting 15 minutes...,,,,,,
+,,,,,,
+Time,Sample,Label,Baseline_MQ3,Baseline_MQ135,MQ3,MQ135
+0,D01,Diseased,341,58,576,93
+1,D01,Diseased,341,58,574,91
+2,D01,Diseased,341,58,571,97
+3,D01,Diseased,341,58,565,87
+4,D01,Diseased,341,58,579,82
+5,D01,Diseased,341,58,576,80
+6,D01,Diseased,341,58,571,91
+7,D01,Diseased,341,58,560,73
+8,D01,Diseased,341,58,585,83
+9,D01,Diseased,341,58,555,77
+10,D01,Diseased,341,58,563,101
+11,D01,Diseased,341,58,561,84
+12,D01,Diseased,341,58,559,95
+13,D01,Diseased,341,58,560,94
+14,D01,Diseased,341,58,574,76
+15,D01,Diseased,341,58,553,73
+16,D01,Diseased,341,58,561,80
+17,D01,Diseased,341,58,570,94
+18,D01,Diseased,341,58,569,91
+19,D01,Diseased,341,58,560,91
+20,D01,Diseased,341,58,573,85
+21,D01,Diseased,341,58,561,80
+22,D01,Diseased,341,58,586,98
+23,D01,Diseased,341,58,563,74
+24,D01,Diseased,341,58,560,84
+25,D01,Diseased,341,58,573,95
+26,D01,Diseased,341,58,567,82
+27,D01,Diseased,341,58,576,79
+28,D01,Diseased,341,58,564,97
+29,D01,Diseased,341,58,574,87
+30,D01,Diseased,341,58,576,86
+31,D01,Diseased,341,58,560,88
+32,D01,Diseased,341,58,574,109
+33,D01,Diseased,341,58,565,80
+34,D01,Diseased,341,58,582,97
+35,D01,Diseased,341,58,566,80
+36,D01,Diseased,341,58,576,81
+37,D01,Diseased,341,58,566,81
+38,D01,Diseased,341,58,561,87
+39,D01,Diseased,341,58,559,96
+40,D01,Diseased,341,58,579,75
+41,D01,Diseased,341,58,560,95
+42,D01,Diseased,341,58,567,93
+43,D01,Diseased,341,58,562,87
+44,D01,Diseased,341,58,563,98
+45,D01,Diseased,341,58,571,96
+46,D01,Diseased,341,58,560,81
+47,D01,Diseased,341,58,581,89
+48,D01,Diseased,341,58,577,90
+49,D01,Diseased,341,58,577,90
+50,D01,Diseased,341,58,567,80
+51,D01,Diseased,341,58,563,92
+52,D01,Diseased,341,58,579,90
+53,D01,Diseased,341,58,560,82
+54,D01,Diseased,341,58,561,75
+55,D01,Diseased,341,58,566,97
+56,D01,Diseased,341,58,560,86
+57,D01,Diseased,341,58,579,97
+58,D01,Diseased,341,58,559,91
+59,D01,Diseased,341,58,577,96
+,,,,,,
+====================================,,,,,,
+DATA COLLECTION COMPLETED,,,,,,
+====================================,,,,,,
