@@ -1,0 +1,146 @@
+
+==========================================
+Next Sample ID : U09
+Label          : Unaffected
+==========================================
+
+Measuring baseline...
+
+KEEP THE CHAMBER EMPTY.
+
+Baseline 1/30   MQ3=385   MQ135=86
+Baseline 2/30   MQ3=359   MQ135=75
+Baseline 3/30   MQ3=366   MQ135=74
+Baseline 4/30   MQ3=366   MQ135=74
+Baseline 5/30   MQ3=385   MQ135=80
+Baseline 6/30   MQ3=368   MQ135=74
+Baseline 7/30   MQ3=367   MQ135=85
+Baseline 8/30   MQ3=379   MQ135=79
+Baseline 9/30   MQ3=384   MQ135=72
+Baseline 10/30   MQ3=384   MQ135=85
+Baseline 11/30   MQ3=378   MQ135=78
+Baseline 12/30   MQ3=378   MQ135=71
+Baseline 13/30   MQ3=378   MQ135=84
+Baseline 14/30   MQ3=353   MQ135=80
+Baseline 15/30   MQ3=372   MQ135=73
+Baseline 16/30   MQ3=384   MQ135=80
+Baseline 17/30   MQ3=357   MQ135=81
+Baseline 18/30   MQ3=368   MQ135=78
+Baseline 19/30   MQ3=375   MQ135=85
+Baseline 20/30   MQ3=368   MQ135=71
+Baseline 21/30   MQ3=375   MQ135=74
+Baseline 22/30   MQ3=375   MQ135=74
+Baseline 23/30   MQ3=384   MQ135=78
+Baseline 24/30   MQ3=368   MQ135=84
+Baseline 25/30   MQ3=382   MQ135=79
+Baseline 26/30   MQ3=355   MQ135=86
+Baseline 27/30   MQ3=379   MQ135=77
+Baseline 28/30   MQ3=357   MQ135=80
+Baseline 29/30   MQ3=375   MQ135=77
+Baseline 30/30   MQ3=359   MQ135=83
+
+==========================================
+Baseline MQ3   = 372
+Baseline MQ135 = 78
+==========================================
+
+BASELINE COMPLETED.
+
+NOW:
+1. Insert the leaf into the leaf chamber.
+2. Close the leaf chamber.
+3. Close the sensor chamber.
+4. Turn ON the pump manually.
+
+When everything is ready, press ENTER.
+
+
+==========================================
+VOC EXPOSURE STARTED
+==========================================
+
+Time_sec,Sample,Label,Baseline_MQ3,Baseline_MQ135,MQ3,MQ135
+15,U09,Unaffected,372,78,360,89
+30,U09,Unaffected,372,78,373,94
+45,U09,Unaffected,372,78,381,86
+60,U09,Unaffected,372,78,394,87
+75,U09,Unaffected,372,78,383,94
+90,U09,Unaffected,372,78,376,87
+105,U09,Unaffected,372,78,401,79
+120,U09,Unaffected,372,78,387,80
+135,U09,Unaffected,372,78,400,80
+150,U09,Unaffected,372,78,411,95
+165,U09,Unaffected,372,78,401,87
+180,U09,Unaffected,372,78,401,81
+195,U09,Unaffected,372,78,409,91
+210,U09,Unaffected,372,78,435,102
+225,U09,Unaffected,372,78,429,87
+240,U09,Unaffected,372,78,439,91
+255,U09,Unaffected,372,78,444,97
+270,U09,Unaffected,372,78,428,93
+285,U09,Unaffected,372,78,448,81
+300,U09,Unaffected,372,78,435,85
+315,U09,Unaffected,372,78,439,102
+330,U09,Unaffected,372,78,451,92
+345,U09,Unaffected,372,78,447,91
+360,U09,Unaffected,372,78,464,108
+375,U09,Unaffected,372,78,464,92
+390,U09,Unaffected,372,78,462,110
+405,U09,Unaffected,372,78,454,112
+420,U09,Unaffected,372,78,475,112
+435,U09,Unaffected,372,78,470,107
+450,U09,Unaffected,372,78,469,87
+465,U09,Unaffected,372,78,451,98
+480,U09,Unaffected,372,78,461,98
+495,U09,Unaffected,372,78,461,101
+510,U09,Unaffected,372,78,459,95
+525,U09,Unaffected,372,78,464,112
+540,U09,Unaffected,372,78,481,112
+555,U09,Unaffected,372,78,467,96
+570,U09,Unaffected,372,78,465,111
+585,U09,Unaffected,372,78,469,95
+600,U09,Unaffected,372,78,495,115
+615,U09,Unaffected,372,78,495,96
+630,U09,Unaffected,372,78,490,96
+645,U09,Unaffected,372,78,490,112
+660,U09,Unaffected,372,78,507,107
+675,U09,Unaffected,372,78,490,99
+690,U09,Unaffected,372,78,496,105
+705,U09,Unaffected,372,78,490,107
+720,U09,Unaffected,372,78,497,113
+735,U09,Unaffected,372,78,493,102
+750,U09,Unaffected,372,78,496,110
+765,U09,Unaffected,372,78,502,110
+780,U09,Unaffected,372,78,511,112
+795,U09,Unaffected,372,78,498,112
+810,U09,Unaffected,372,78,527,112
+825,U09,Unaffected,372,78,511,99
+840,U09,Unaffected,372,78,529,119
+855,U09,Unaffected,372,78,505,113
+870,U09,Unaffected,372,78,511,105
+885,U09,Unaffected,372,78,505,114
+900,U09,Unaffected,372,78,532,113
+
+==========================================
+15 MINUTE EXPOSURE COMPLETED
+==========================================
+
+TURN OFF THE PUMP.
+REMOVE THE LEAF.
+OPEN BOTH CHAMBERS.
+VENTILATE THE CHAMBERS.
+
+DATA COLLECTION COMPLETED.
+
+ESP32 WILL REMAIN POWERED.
+ALLOW SENSORS TO RECOVER IN FRESH AIR.
+
+STOP FILE CAPTURE NOW.
+
+After stabilization:
+Start a NEW file capture.
+Then enter the next Sample ID.
+
+Diseased   : D01, D02, D03...
+Unaffected : U01, U02, U03...
+

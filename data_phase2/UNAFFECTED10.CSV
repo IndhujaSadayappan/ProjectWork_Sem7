@@ -1,0 +1,157 @@
+
+==========================================
+INVALID SAMPLE ID
+==========================================
+
+Valid formats:
+D01, D02, D03...  = Diseased
+U01, U02, U03...  = Unaffected
+
+Enter Sample ID again:
+
+
+==========================================
+Next Sample ID : U10
+Label          : Unaffected
+==========================================
+
+Measuring baseline...
+
+KEEP THE CHAMBER EMPTY.
+
+Baseline 1/30   MQ3=389   MQ135=102
+Baseline 2/30   MQ3=417   MQ135=114
+Baseline 3/30   MQ3=414   MQ135=107
+Baseline 4/30   MQ3=388   MQ135=112
+Baseline 5/30   MQ3=402   MQ135=123
+Baseline 6/30   MQ3=386   MQ135=111
+Baseline 7/30   MQ3=414   MQ135=115
+Baseline 8/30   MQ3=397   MQ135=110
+Baseline 9/30   MQ3=411   MQ135=112
+Baseline 10/30   MQ3=396   MQ135=119
+Baseline 11/30   MQ3=387   MQ135=109
+Baseline 12/30   MQ3=403   MQ135=106
+Baseline 13/30   MQ3=399   MQ135=110
+Baseline 14/30   MQ3=406   MQ135=121
+Baseline 15/30   MQ3=401   MQ135=118
+Baseline 16/30   MQ3=406   MQ135=119
+Baseline 17/30   MQ3=411   MQ135=107
+Baseline 18/30   MQ3=389   MQ135=119
+Baseline 19/30   MQ3=411   MQ135=119
+Baseline 20/30   MQ3=415   MQ135=113
+Baseline 21/30   MQ3=413   MQ135=105
+Baseline 22/30   MQ3=402   MQ135=123
+Baseline 23/30   MQ3=412   MQ135=112
+Baseline 24/30   MQ3=411   MQ135=106
+Baseline 25/30   MQ3=407   MQ135=122
+Baseline 26/30   MQ3=400   MQ135=112
+Baseline 27/30   MQ3=400   MQ135=104
+Baseline 28/30   MQ3=390   MQ135=109
+Baseline 29/30   MQ3=415   MQ135=109
+Baseline 30/30   MQ3=409   MQ135=97
+
+==========================================
+Baseline MQ3   = 403
+Baseline MQ135 = 112
+==========================================
+
+BASELINE COMPLETED.
+
+NOW:
+1. Insert the leaf into the leaf chamber.
+2. Close the leaf chamber.
+3. Close the sensor chamber.
+4. Turn ON the pump manually.
+
+When everything is ready, press ENTER.
+
+
+==========================================
+VOC EXPOSURE STARTED
+==========================================
+
+Time_sec,Sample,Label,Baseline_MQ3,Baseline_MQ135,MQ3,MQ135
+15,U10,Unaffected,403,112,406,120
+30,U10,Unaffected,403,112,411,121
+45,U10,Unaffected,403,112,391,135
+60,U10,Unaffected,403,112,417,118
+75,U10,Unaffected,403,112,407,130
+90,U10,Unaffected,403,112,429,135
+105,U10,Unaffected,403,112,412,128
+120,U10,Unaffected,403,112,405,120
+135,U10,Unaffected,403,112,431,125
+150,U10,Unaffected,403,112,434,132
+165,U10,Unaffected,403,112,410,134
+180,U10,Unaffected,403,112,432,144
+195,U10,Unaffected,403,112,438,144
+210,U10,Unaffected,403,112,423,132
+225,U10,Unaffected,403,112,446,128
+240,U10,Unaffected,403,112,427,135
+255,U10,Unaffected,403,112,445,144
+270,U10,Unaffected,403,112,435,147
+285,U10,Unaffected,403,112,458,128
+300,U10,Unaffected,403,112,455,144
+315,U10,Unaffected,403,112,432,144
+330,U10,Unaffected,403,112,442,142
+345,U10,Unaffected,403,112,448,142
+360,U10,Unaffected,403,112,464,135
+375,U10,Unaffected,403,112,459,155
+390,U10,Unaffected,403,112,446,144
+405,U10,Unaffected,403,112,460,154
+420,U10,Unaffected,403,112,448,142
+435,U10,Unaffected,403,112,461,149
+450,U10,Unaffected,403,112,484,140
+465,U10,Unaffected,403,112,468,154
+480,U10,Unaffected,403,112,471,138
+495,U10,Unaffected,403,112,482,155
+510,U10,Unaffected,403,112,487,144
+525,U10,Unaffected,403,112,476,138
+540,U10,Unaffected,403,112,492,151
+555,U10,Unaffected,403,112,466,153
+570,U10,Unaffected,403,112,476,144
+585,U10,Unaffected,403,112,471,161
+600,U10,Unaffected,403,112,483,145
+615,U10,Unaffected,403,112,496,155
+630,U10,Unaffected,403,112,486,145
+645,U10,Unaffected,403,112,476,143
+660,U10,Unaffected,403,112,491,142
+675,U10,Unaffected,403,112,509,147
+690,U10,Unaffected,403,112,496,144
+705,U10,Unaffected,403,112,511,140
+720,U10,Unaffected,403,112,487,158
+735,U10,Unaffected,403,112,491,144
+750,U10,Unaffected,403,112,511,158
+765,U10,Unaffected,403,112,494,144
+780,U10,Unaffected,403,112,502,145
+795,U10,Unaffected,403,112,496,162
+810,U10,Unaffected,403,112,526,158
+825,U10,Unaffected,403,112,501,159
+840,U10,Unaffected,403,112,497,160
+855,U10,Unaffected,403,112,528,147
+870,U10,Unaffected,403,112,528,157
+885,U10,Unaffected,403,112,509,158
+900,U10,Unaffected,403,112,524,153
+
+==========================================
+15 MINUTE EXPOSURE COMPLETED
+==========================================
+
+TURN OFF THE PUMP.
+REMOVE THE LEAF.
+OPEN BOTH CHAMBERS.
+VENTILATE THE CHAMBERS.
+
+DATA COLLECTION COMPLETED.
+
+ESP32 WILL REMAIN POWERED.
+ALLOW SENSORS TO RECOVER IN FRESH AIR.
+
+STOP FILE CAPTURE NOW.
+
+After stabilization:
+Start a NEW file capture.
+Then enter the next Sample ID.
+
+Diseased   : D01, D02, D03...
+Unaffected : U01, U02, U03...
+

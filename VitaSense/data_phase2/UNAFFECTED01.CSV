@@ -1,0 +1,146 @@
+
+==========================================
+Sample ID : U01
+Label     : Unaffected
+==========================================
+
+Measuring baseline...
+
+KEEP THE CHAMBER EMPTY.
+
+Baseline 1/30   MQ3=350   MQ135=132
+Baseline 2/30   MQ3=365   MQ135=142
+Baseline 3/30   MQ3=365   MQ135=117
+Baseline 4/30   MQ3=350   MQ135=118
+Baseline 5/30   MQ3=368   MQ135=133
+Baseline 6/30   MQ3=351   MQ135=137
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ126
+Baseline 8/30   MQ3=351   MQ135=113
+Baseline 9/30   MQ3=364   MQ135=118
+Baseline 10/30   MQ3=353   MQ135=135
+Baseline 11/30   MQ3=364   MQ135=131
+Baseline 12/30   MQ3=363   MQ135=127
+Baseline 13/30   MQ3=365   MQ135=135
+Baseline 14/30   MQ3=368   MQ135=128
+Baseline 15/30   MQ3=365   MQ135=138
+Baseline 16/30   MQ3=353   MQ135=120
+Baseline 17/30   MQ3=351   MQ135=126
+Baseline 18/30   MQ3=378   MQ135=130
+Baseline 19/30   MQ3=365   MQ135=130
+Baseline 20/30   MQ3=354   MQ135=124
+Baseline 21/30   MQ3=363   MQ135=115
+Baseline 22/30   MQ3=361   MQ135=124
+Baseline 23/30   MQ3=358   MQ135=127
+Baseline 24/30   MQ3=354   MQ135=121
+Baseline 25/30   MQ3=368   MQ135=134
+Baseline 26/30   MQ3=359   MQ135=124
+Baseline 27/30   MQ3=350   MQ135=130
+Baseline 28/30   MQ3=345   MQ135=129
+Baseline 29/30   MQ3=360   MQ135=127
+Baseline 30/30   MQ3=355   MQ135=119
+
+==========================================
+Baseline MQ3   = 359
+Baseline MQ135 = 127
+==========================================
+
+BASELINE COMPLETED.
+
+NOW:
+1. Insert the leaf into the leaf chamber.
+2. Close the leaf chamber.
+3. Close the sensor chamber.
+4. Turn ON the pump manually.
+
+When everything is ready, press ENTER.
+
+
+==========================================
+VOC EXPOSURE STARTED
+==========================================
+
+Time_sec,Sample,Label,Baseline_MQ3,Baseline_MQ135,MQ3,MQ135
+15,U01,Unaffected,359,127,368,139
+30,U01,Unaffected,359,127,378,152
+45,U01,Unaffected,359,127,369,131
+60,U01,Unaffected,359,127,385,129
+75,U01,Unaffected,359,127,368,139
+90,U01,Unaffected,359,127,390,145
+105,U01,Unaffected,359,127,390,128
+120,U01,Unaffected,359,127,387,144
+135,U01,Unaffected,359,127,399,141
+150,U01,Unaffected,359,127,416,158
+165,U01,Unaffected,359,127,420,153
+180,U01,Unaffected,359,127,411,139
+195,U01,Unaffected,359,127,426,144
+210,U01,Unaffected,359,127,422,151
+225,U01,Unaffected,359,127,448,156
+240,U01,Unaffected,359,127,432,157
+255,U01,Unaffected,359,127,459,147
+270,U01,Unaffected,359,127,448,157
+285,U01,Unaffected,359,127,459,149
+300,U01,Unaffected,359,127,468,137
+315,U01,Unaffected,359,127,478,166
+330,U01,Unaffected,359,127,483,157
+345,U01,Unaffected,359,127,471,163
+360,U01,Unaffected,359,127,474,176
+375,U01,Unaffected,359,127,485,154
+390,U01,Unaffected,359,127,484,176
+405,U01,Unaffected,359,127,501,174
+420,U01,Unaffected,359,127,506,154
+435,U01,Unaffected,359,127,496,175
+450,U01,Unaffected,359,127,497,160
+465,U01,Unaffected,359,127,506,160
+480,U01,Unaffected,359,127,502,167
+495,U01,Unaffected,359,127,526,175
+510,U01,Unaffected,359,127,528,166
+525,U01,Unaffected,359,127,531,178
+540,U01,Unaffected,359,127,539,164
+555,U01,Unaffected,359,127,547,171
+570,U01,Unaffected,359,127,539,175
+585,U01,Unaffected,359,127,559,171
+600,U01,Unaffected,359,127,555,167
+615,U01,Unaffected,359,127,556,171
+630,U01,Unaffected,359,127,555,178
+645,U01,Unaffected,359,127,565,169
+660,U01,Unaffected,359,127,561,178
+675,U01,Unaffected,359,127,576,176
+690,U01,Unaffected,359,127,576,178
+705,U01,Unaffected,359,127,587,188
+720,U01,Unaffected,359,127,573,173
+735,U01,Unaffected,359,127,581,172
+750,U01,Unaffected,359,127,593,170
+765,U01,Unaffected,359,127,581,170
+780,U01,Unaffected,359,127,583,179
+795,U01,Unaffected,359,127,593,164
+810,U01,Unaffected,359,127,607,181
+825,U01,Unaffected,359,127,592,183
+840,U01,Unaffected,359,127,609,182
+855,U01,Unaffected,359,127,621,176
+870,U01,Unaffected,359,127,607,176
+885,U01,Unaffected,359,127,611,176
+900,U01,Unaffected,359,127,614,189
+
+==========================================
+15 MINUTE EXPOSURE COMPLETED
+==========================================
+
+TURN OFF THE PUMP.
+REMOVE THE LEAF.
+OPEN BOTH CHAMBERS.
+VENTILATE THE CHAMBERS.
+
+DATA COLLECTION COMPLETED.
+
+ESP32 WILL REMAIN POWERED.
+ALLOW SENSORS TO RECOVER IN FRESH AIR.
+
+STOP FILE CAPTURE NOW.
+
+After stabilization:
+Start a NEW file capture.
+Then enter the next Sample ID.
+
+Diseased   : D01, D02, D03...
+Unaffected : U01, U02, U03...
+
